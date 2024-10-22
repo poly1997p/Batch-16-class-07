@@ -1,0 +1,12 @@
+=============cs==============
+css-casecading style sheet
+
+1.inline css
+2.internal css
+3.external css
+
+==========some special tag====
+<section></section>
+<div></div>
+<style></style>
+<script></script>

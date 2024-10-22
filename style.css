@@ -16,3 +16,9 @@ color: rgb(255, 149, 0);
 background-color: chartreuse;
 font-size: 20px;
 }
+.side {
+    display: inline-block;
+}
+.side1{
+    display: inline-block;
+}
